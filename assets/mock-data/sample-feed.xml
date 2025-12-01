@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Tech Talk Daily</title>
+    <link>https://example.com/techtalk</link>
+    <description>Daily discussions about technology, AI, and innovation</description>
+    <itunes:author>Tech Talk Team</itunes:author>
+    <itunes:image href="https://picsum.photos/400/400" />
+
+    <item>
+      <title>The Future of AI Assistants</title>
+      <description>In this episode, we explore how AI assistants are transforming our daily lives, from voice interfaces to contextual understanding.</description>
+      <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg" length="7323456"/>
+      <pubDate>Mon, 07 Oct 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>00:45:30</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:image href="https://picsum.photos/400/401" />
+      <podcast:transcript url="https://example.com/transcripts/episode-42.srt" type="application/srt" />
+    </item>
+
+    <item>
+      <title>Building Voice-First Applications</title>
+      <description>A deep dive into creating applications that prioritize voice interaction and natural language understanding.</description>
+      <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" type="audio/mpeg" length="8234567"/>
+      <pubDate>Sun, 06 Oct 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>00:52:15</itunes:duration>
+      <itunes:episode>41</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:image href="https://picsum.photos/400/402" />
+      <podcast:transcript url="https://example.com/transcripts/episode-41.srt" type="application/srt" />
+    </item>
+
+    <item>
+      <title>The Podcast Renaissance</title>
+      <description>Why podcasts are more popular than ever and what the future holds for audio content.</description>
+      <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" type="audio/mpeg" length="6123456"/>
+      <pubDate>Sat, 05 Oct 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>00:38:42</itunes:duration>
+      <itunes:episode>40</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:image href="https://picsum.photos/400/403" />
+    </item>
+  </channel>
+</rss>
